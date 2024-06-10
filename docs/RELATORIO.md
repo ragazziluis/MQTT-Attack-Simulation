@@ -56,3 +56,5 @@ A análise revelou vulnerabilidades significativas em sistemas MQTT quando não 
 ## 5. Referências
 - "10 Free Public & Private MQTT Brokers for Testing & Prototyping" - [mntolia.com](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
 - MQTT Standard Documentation - [mqtt.org](https://mqtt.org/documentation)
+
+Este relatório demonstra a importância de práticas de segurança na implementação de sistemas MQTT, especialmente em ambientes onde a integridade e a disponibilidade dos dados são críticas.
